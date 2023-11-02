@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PdtToText": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\work\\Test\\PdfToText\\convert\\doc.pdf\" \"D:\\work\\Test\\PdfToText\\convert\\doc.txt\""
+    }
+  }
+}
